@@ -1,0 +1,10 @@
+out/
+DrawlayoutDemo.iml
+bin/
+gen/
+ic_launcher-web.png
+.DS_Store
+.classpath
+.idea/
+.project
+.settings/
